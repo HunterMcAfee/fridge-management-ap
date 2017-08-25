@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  fridges: one
+  foods: one
+
+two:
+  fridges: two
+  foods: two
